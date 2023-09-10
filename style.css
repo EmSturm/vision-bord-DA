@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+    color: brown;
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+
+}
+
+img {
+    width: 300px;
+    height: 200px
+    padding:200px
+    float: right;
+    border: 3px solid brown;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
